@@ -119,4 +119,4 @@ Punto de entrada principal del programa, donde se configuran y ejecutan las topo
 
 ---
 
-Este proyecto permitió a los estudiantes profundizar en conceptos de redes y programación concurrente, desarrollando una herramienta práctica y extensible para simular diversas topologías de redes para procesamiento paralelo.
+En este proyecto se ejecutaron todas las topologias al mismo tiempo viendo los resultados de los mensajes enviados:
